@@ -1,7 +1,6 @@
-hello this is suraj kannujiya
-k now we work on project 
- ><<<
- kya hua tera vada  
-                  	
-:
-
+#include<bits.stdc++.h>
+using namespace std;
+int main()
+{
+    cout<<" ha bhai <<endl;
+    }
